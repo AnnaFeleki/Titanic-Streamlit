@@ -38,5 +38,6 @@ A Streamlit web application that predicts the survival of Titanic passengers bas
 
 ```bash
 git clone https://github.com/AnnaFeleki/Titanic-Streamlit/tree/main
-cd titanic-predictor-app
+cd Titanic-Streamlit
+streamlit run main.py
 
